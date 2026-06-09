@@ -4,7 +4,8 @@
 
 I am a Bachelor of Science in Computer Science (BSCS) student at Namal University, Pakistan.
 
-I am passionate about Software Engineering, Compiler Design, Object-Oriented Programming, and Computer Organization & Assembly Language (COAL). I enjoy solving programming problems and building projects that strengthen my understanding of computer science fundamentals.
+I am a passionate and motivated computer science student with a strong interest in learning new technologies, solving complex problems, and building impactful projects. I enjoy turning ideas into practical solutions while continuously improving my technical and analytical skills.
+
 
 ---
 
@@ -65,11 +66,7 @@ A Software Engineering project containing:
 * Event Booking
 * Bill Payment
 
-### 🔤 Urdu Programming Language Research
 
-Research and experimentation related to designing a programming language using Urdu/Roman Urdu syntax and compiler concepts.
-
----
 
 ## 🌱 Current Goals
 
